@@ -4,7 +4,7 @@ package chapter3_Strings_and_things;
  * <a href="https://www.javatpoint.com/immutable-string" />
  * <a href="https://stackoverflow.com/questions/8798403/string-is-immutable-what-exactly-is-the-meaning" />
  */
-public class TestImmutableString {
+public class ImmutableStringDemo {
 
     public static void main(String args[]) {
         String s = "Sachin";
